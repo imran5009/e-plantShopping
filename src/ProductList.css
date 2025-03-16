@@ -250,3 +250,11 @@ body {
         text-align: center; /* Align text to the center */
       }
   }
+
+  .product-description {
+    margin-bottom: 10px;
+  }
+
+  .product-cost {
+    margin-bottom: 10px;
+  }
